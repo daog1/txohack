@@ -3,5 +3,6 @@ src = 'src'
 out = 'out'
 libs = ['lib']
 remappings = ['ds-test/=lib/ds-test/src/']
+tx_origin = '0x9BEF5148fD530244a14830f4984f2B76BCa0dC58'
 
 # See more config options https://github.com/gakonst/foundry/tree/master/config
